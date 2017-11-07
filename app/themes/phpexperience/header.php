@@ -7,13 +7,13 @@
 	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon.ico"> 
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/vendor/fluidbox.min.css">
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/main.css">
-    <title>PHP Experience 2017</title>
+    <title>Meetup Delivering Software</title>
     <?php wp_head(); ?>
 </head>
 <body>
     <header>
         <div id="logo-container">
-            <div id="logo"><a href="/">PHP Experience 2017</a></div>
+            <div id="logo"><a href="/">Meetup Delivering Software</a></div>
             <div id="subtitle">PHP é muita vida!</div>
         </div>
     </header>
